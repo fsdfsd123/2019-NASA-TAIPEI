@@ -1,6 +1,3 @@
-/**
- * Created by hn on 2015/12/18.
- */
 
 var container, scene, camera, renderer, controls, stats,light;
 var keyboard = new THREEx.KeyboardState();
@@ -100,4 +97,3 @@ function initEvents(){
 function initControls(){
     controls = new THREE.OrbitControls( camera, renderer.domElement );
 }
-

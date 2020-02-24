@@ -1,6 +1,3 @@
-/**
- * Created by hn on 2015/12/18.
- */
 
 // 星球名字
 var sun,mercury,venus,earth,moon,mars,jupiter,saturn,uranus,neptune,comet;
@@ -198,4 +195,3 @@ function drawSolarSystem() {
     // CUSTOM // 彗星
     //drawPlanet(15,15,axisHelper,7,900,500,0,'images/solar/moon.jpg',Math.PI/2);
 }
-

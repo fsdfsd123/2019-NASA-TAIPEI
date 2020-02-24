@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2015/12/20.
- */
+
 
 //保留两位小数
 //功能：将浮点数四舍五入，取小数点后2位
@@ -57,4 +55,3 @@ alert("精确到小数点第3位" + 3.1465.toPrecision(3));
 alert("精确到小数点第2位" + 3.1415.toPrecision(2));
 alert("精确到小数点第2位" + 3.1455.toPrecision(2));
 alert("精确到小数点第5位" + 3.141592679287.toPrecision(5));
-
